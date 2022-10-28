@@ -1,0 +1,16 @@
+
+select,
+input,.find {
+  margin: 20px;
+  border-radius: 5px;
+  padding: 5px;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+.find {
+    margin-left: 10px;
+    width: 60px;
+    border: 1px solid grey;
+}
